@@ -5,6 +5,7 @@
 5.	View app in browser
 
 The page should look like this:
+
 ![image](https://user-images.githubusercontent.com/86643061/158655549-fe5f978d-85ac-444f-8d1f-686900e16414.png)
 
 
@@ -15,5 +16,4 @@ The page should look like this:
 
 
 8.	Create a react component that contains an input that provides a search term to filter the todo list when a button is pressed – see below: 
- 
-![image](https://user-images.githubusercontent.com/86643061/158655419-1da8024c-ade2-4158-90cc-d9992d7c352d.png)
+	![image](https://user-images.githubusercontent.com/86643061/158655861-6fb63041-30d3-4417-b6c3-272009df71f7.png)
