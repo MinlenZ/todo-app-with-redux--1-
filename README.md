@@ -1,4 +1,4 @@
-1.	Ensure you have installed recent versions of node and npm
+1.	Ensure you have installed recent versions of node and npm (node version 14> required)
 2.	Clone git repo locally: https://github.com/MinlenZ/todo-app-with-redux--1- 
 3.	Run command “npm install”
 4.	Run “npm start” in terminal 
